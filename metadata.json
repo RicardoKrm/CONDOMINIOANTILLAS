@@ -1,0 +1,7 @@
+{
+  "name": "CondoMaster Chile - Sistema de Gestión Condominial",
+  "description": "Una plataforma integral para la gestión de condominios en Chile, enfocada en transparencia de gastos comunes, control de acceso mediante QR, gestión de encomiendas y auditoría inalterable.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
